@@ -10,7 +10,7 @@ dotenv.config();
 
 app.use(cors(
   {
-    origin: 'http://localhost:8080', 
+    origin: 'https://mason-xcxw.vercel.app', 
     credentials: true,
   }
 ));
