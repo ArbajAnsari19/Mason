@@ -1,6 +1,6 @@
-# Mason - AI-Powered Notes App
+# Keeper - AI-Powered Notes App
 
-Mason is a full-stack notes application that leverages AI to generate summaries and tags for your notes. The project consists of a **frontend** built with React, Vite, and TypeScript, and a **backend** built with Express, TypeScript, MongoDB, and various AI-integrated utilities.
+Keeper is a full-stack notes application that leverages AI to generate summaries and tags for your notes. The project consists of a **frontend** built with React, Vite, and TypeScript, and a **backend** built with Express, TypeScript, MongoDB, and various AI-integrated utilities.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Mason is a full-stack notes application that leverages AI to generate summaries 
 ## Project Structure
 
 ```
-Mason/
+Keeper/
 ├── backend/            # Express API server (TypeScript, MongoDB)
 └── frontend/           # React app (Vite, TypeScript)
 ```
@@ -35,7 +35,7 @@ Mason/
 Open your terminal and clone the repository. Then, navigate to the project folder:
 
 ```shell
-cd Mason
+cd Keeper
 ```
 
 ### 2. Install Dependencies
@@ -120,4 +120,4 @@ This will start the Vite development server. The terminal will display the URL (
   ```
 - **Port Conflicts:** If the default ports are busy, update the port settings in the `.env` file for the backend or configure the Vite server accordingly.
 
-Follow these instructions to run Mason locally and enjoy building your AI-powered notes application!
+Follow these instructions to run Keeper locally and enjoy building your AI-powered notes application!
